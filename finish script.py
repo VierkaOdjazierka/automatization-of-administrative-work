@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 16 11:35:58 2025
 
-@author: Viera
+@author: Viera Rattayová, rattayovaviera@gmail.com, https://github.com/VierkaOdjazierka/
 """
 
 import pandas as pd
@@ -20,7 +20,7 @@ import textwrap
 
 
 
-csv_path = "C://Users//Viera//Desktop//menovky//na menovky.csv"
+csv_path = "C://Users//Viera//Desktop//menovky//menovky_automaticke//na menovky.csv"
 background_path = "C:/Users/Viera/Desktop/menovky/menovky_automaticke/menovka.png"  # <-- 1063x591px at 300 DPI
 output_folder = "C:/Users/Viera/Desktop/menovky/output_tags/"
 
@@ -63,7 +63,7 @@ count_position=240
 ##################################
 # printing size of name tags
 tag_width_cm = 9.4
-tag_height_cm = 5.2
+tag_height_cm = 5.7
 
 
 #################################################################################
